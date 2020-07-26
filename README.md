@@ -1,3 +1,3 @@
 # vietnamese-laravel-document-7.x
 
-Gitpage: 
+Gitpage: https://dinhtienn.github.io/vietnamese-laravel-document-7.x/
